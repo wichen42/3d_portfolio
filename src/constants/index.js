@@ -198,20 +198,20 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Cloud Tunes",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A web app clone of SoundCloud, utilizing React frontend, Rails backend, and Amazon S3 cloud storage. ",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "ruby on rails",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "aws",
           color: "pink-text-gradient",
         },
       ],
@@ -219,12 +219,12 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Aviquest",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "MERN Stack Online task management web application, inspired by Habitica, developed with a team of 4",
       tags: [
         {
-          name: "react",
+          name: "MERN",
           color: "blue-text-gradient",
         },
         {
@@ -232,7 +232,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "responsive design",
           color: "pink-text-gradient",
         },
       ],
@@ -240,20 +240,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "PRJCT MVMT",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Fitness boutique website (in progress) ",
       tags: [
         {
-          name: "nextjs",
+          name: "nuxt",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "vue",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],

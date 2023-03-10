@@ -20,7 +20,7 @@ const Navbar = () => {
             window.scrollTo(0,0);
           }}>
             <img src={monitor} alt="logo" className='w-10 h-10 object-contain rounded-full'/>
-            <p className='text-light text-[18px] font-bold cursor-pointer flex'>Wilson Chen &nbsp;
+            <p className='text-dark text-[18px] font-bold cursor-pointer flex'>Wilson Chen &nbsp;
             <span className='sm:block hidden'>|&nbsp; Portfolio</span></p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
